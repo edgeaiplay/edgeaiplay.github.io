@@ -1,8 +1,8 @@
-title: Edge AI Open Source Guide
+title: Edge AI Open
 description: A guide for getting started with AI tasks inference on edge devices and open source frameworks, tools.
 theme: just-the-docs
 
 url: https://edgeaiplay.github.io
 
-aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+# aux_links:
+#   Template Repository: https://github.com/just-the-docs/just-the-docs-template
